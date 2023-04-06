@@ -1,0 +1,39 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    max-width: 1440px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(212, 45%, 89%);
+
+
+}
+
+.container {
+    max-width: 320px;
+    padding: 16px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+     }
+
+#code {
+    width: 100%;
+    border-radius: 5px;   
+    
+}
+
+.container article {
+    text-align: center;
+    margin: 12px;
+}
+
+article h1 {
+    margin: 10px 0;
+}
+
+article h2 {
+    font-weight: 100;
+    font-size: 15px;
+}
+
